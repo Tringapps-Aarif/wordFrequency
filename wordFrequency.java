@@ -1,3 +1,6 @@
+// <!-- Write a program that reads a text file and counts the frequency of each word in the file.
+//  The program should then print out a list of the words and their frequencies, sorted in descending order by frequency.
+//   This project will help you understand data structures such as hash maps and priority queues. -->
 import java.io.*;
 import java.util.*;
 
